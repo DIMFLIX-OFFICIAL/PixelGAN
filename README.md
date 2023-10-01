@@ -42,3 +42,6 @@
   <a>  </a>
   <img height ="250px"  src="processed image.png" />
 </div>
+
+# Итоги Хакатона
+![alt text]([https://github.com/DIMFLIX-OFFICIAL/EDYK-RecSystem/blob/master/итоги%20хакатона.png?raw=true](https://github.com/DIMFLIX-OFFICIAL/BusinessLunchGAN/blob/master/итоги%20хакатона.png?raw=true)https://github.com/DIMFLIX-OFFICIAL/BusinessLunchGAN/blob/master/итоги%20хакатона.png?raw=true)
