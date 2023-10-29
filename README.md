@@ -44,7 +44,7 @@
 </div>
 
 # Authors
-Authored by: DIMFLIX <dimflix.official@gmail.com>
+Authored by: DIMFLIX <dimflix.official@gmail.com><br>
 Co-authored-by: K1rsN7 <k1rsn7@mail.ru>
 
 # Итоги Хакатона
