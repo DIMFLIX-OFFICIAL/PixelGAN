@@ -43,9 +43,9 @@
   <img height ="250px"  src="processed image.png" />
 </div>
 
+# Итоги Хакатона
+![alt text](https://github.com/DIMFLIX-OFFICIAL/BusinessLunchGAN/blob/master/итоги%20хакатона.png?raw=true)
+
 Author added
 
 Co-authored-by: K1rsN7 <k1rsn7@mail.ru>
-
-# Итоги Хакатона
-![alt text](https://github.com/DIMFLIX-OFFICIAL/BusinessLunchGAN/blob/master/итоги%20хакатона.png?raw=true)
