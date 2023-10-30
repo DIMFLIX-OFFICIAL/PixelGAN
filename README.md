@@ -43,8 +43,8 @@
   <img height ="250px"  src="processed image.png" />
 </div>
 
-# Authors
-Authored by: DIMFLIX <dimflix.official@gmail.com><br>
+Author added
+
 Co-authored-by: K1rsN7 <k1rsn7@mail.ru>
 
 # Итоги Хакатона
