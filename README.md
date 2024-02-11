@@ -1,5 +1,5 @@
 
-# BusinessLunchGAN
+# PixelGAN
 
 Инструмент разработанный для улучшения качества фото и видео.
 В нем используется алгоритм  генеративно-состязательной сети.
@@ -44,4 +44,4 @@
 </div>
 
 # Итоги Хакатона
-![alt text](https://github.com/DIMFLIX-OFFICIAL/BusinessLunchGAN/blob/master/итоги%20хакатона.png?raw=true)
+<img src="https://github.com/DIMFLIX-HACKATONS/PixelGAN/blob/55581e863a63e96100c9a8a3c3a4a19c47e0b00f/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.png" alt=""/>
