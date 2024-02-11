@@ -45,3 +45,4 @@
 
 # Итоги Хакатона
 ![alt text](https://github.com/DIMFLIX-OFFICIAL/BusinessLunchGAN/blob/master/итоги%20хакатона.png?raw=true)
+ 
